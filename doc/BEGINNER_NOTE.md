@@ -44,6 +44,11 @@ source ~/.bashrc
 sudo apt install x11-apps
 ```
 
+**sudo apt install gnome-terminal**
+
+[ref. WSL: WindowsからUbuntuのファイルへアクセス](https://demura.net/lecture/15122.html)
+
+
 https://www.atmarkit.co.jp/ait/articles/1806/28/news043.html
 を参考に日本語化を進めます。
 ```
