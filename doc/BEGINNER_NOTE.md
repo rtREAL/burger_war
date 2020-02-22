@@ -35,6 +35,8 @@ sudo apt-get upgrade
 次に、GUIアプリが使えるようにWindows側にVcXsrvというソフトを入れます。
 参考）https://www.atmarkit.co.jp/ait/articles/1812/06/news040.html
 
+**VcXsrvは '"C:\Program Files\VcXsrv\vcxsrv.exe" :0 -ac -multiwindow -reset -terminate -nowgl' で起動する**
+
 Ubuntuのコンソールに下記を入力してください。
 ```
 echo "export DISPLAY=:0.0" >> ~/.bashrc
